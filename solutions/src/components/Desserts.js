@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-export default class Desserts extends
+export default class Desserts extends Component {
 
   render(){
     let items = this.props.desserts;

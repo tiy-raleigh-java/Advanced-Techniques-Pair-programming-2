@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-export default class Appetizers extends
+export default class Appetizers extends  Component {
 
   render(){
     let items = this.props.appetizers
